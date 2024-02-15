@@ -9,8 +9,8 @@ This repository contains solutions to 129 C++ basic algorithm exercises, each st
 
 ## Navigation
 
-- Use the [File List](https://github.com/username/repo-name/tree/main) to see all exercises.
-- Use the [Exercise List](https://github.com/username/repo-name/tree/main/exercises) to see all exercises with descriptions.
+- Use the [File List](https://github.com/KalinToshev/CPP-Basic-Algorithm-Exercises-and-Solutions/tree/main) to see all exercises.
+- Use the [Exercise List](https://github.com/KalinToshev/CPP-Basic-Algorithm-Exercises-and-Solutions/tree/main/exercises) to see all exercises with descriptions.
 
 ## Contributing
 
